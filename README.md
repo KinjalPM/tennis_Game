@@ -7,5 +7,5 @@ To win the game the opposite side player must miss 3 times the ball.
 Whenever the ball is missed, it resets and starts from the center.
 At the end of the game which player is won is displayed on board.
 
-#TO PLAY
-Download the file and run on browser.
+## TO PLAY
+Download the file and run on the browser.
